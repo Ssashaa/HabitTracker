@@ -1,0 +1,96 @@
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Попытка 2.exe.config
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Попытка 2.exe
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Попытка 2.pdb
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.Licensing.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\MySql.Data.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Google.Protobuf.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Zstandard.Net.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Renci.SshNet.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\System.Memory.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\System.Buffers.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\System.Numerics.Vectors.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\MySql.Data.xml
+C:\Users\SASHA\source\repos\Попытка 2\bin\Release\ru\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\SASHA\source\repos\Попытка 2\obj\Release\Попытка 2.csprojAssemblyReference.cache
+C:\Users\SASHA\source\repos\Попытка 2\obj\Release\Попытка 2.exe.config
+C:\Users\SASHA\source\repos\Попытка 2\obj\Release\Попытка_2.Form1.resources
+C:\Users\SASHA\source\repos\Попытка 2\obj\Release\Попытка_2.Loading.resources
+C:\Users\SASHA\source\repos\Попытка 2\obj\Release\Попытка_2.MainForm.resources
+C:\Users\SASHA\source\repos\Попытка 2\obj\Release\Попытка_2.Properties.Resources.resources
+C:\Users\SASHA\source\repos\Попытка 2\obj\Release\Попытка_2.RegForm.resources
+C:\Users\SASHA\source\repos\Попытка 2\obj\Release\Попытка 2.csproj.GenerateResource.cache
+C:\Users\SASHA\source\repos\Попытка 2\obj\Release\Попытка 2.csproj.CoreCompileInputs.cache
+C:\Users\SASHA\source\repos\Попытка 2\obj\Release\Попытка 2.csproj.CopyComplete
+C:\Users\SASHA\source\repos\Попытка 2\obj\Release\Попытка 2.exe
+C:\Users\SASHA\source\repos\Попытка 2\obj\Release\Попытка 2.pdb
